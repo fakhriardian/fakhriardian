@@ -1,4 +1,4 @@
-# Hi there 👋, I am Krushnat Khavale
+# Hi there 👋, I am fakhriardian
 
 [![Linkedin Badge](https://img.shields.io/badge/-krushnatkhawale-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/krushnat-khavale/)](https://www.linkedin.com/in/krushnat-khavale/)
 [![Stackoverflow Badge](https://img.shields.io/badge/-Stackoverflow-4CA143?style=flat-square&logo=Stackoverflow&logoColor=white&link=https://stackoverflow.com/users/1446358/wosimosi)](https://stackoverflow.com/users/1446358/wosimosi)
