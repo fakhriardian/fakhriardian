@@ -1,6 +1,6 @@
 ### Hi there 👋, I'm fakhriardian.
 
-- 🌱 I’m currently learning : Python, Java, Hhtml, CSS, bootstrap, javascript, flutter;
+- 🌱 I’m currently learning : Python, Java, Html, CSS, bootstrap, javascript, flutter;
 - 📫 How to reach me: 
  <br/>
 
