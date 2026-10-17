@@ -21,9 +21,16 @@ I'm a web developer and part of **Nexus Studio**, where I enjoy turning ideas in
 
 ### 🛠️ Tech Stack
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=php,laravel,js,react,tailwind,go,nodejs,postgres,mysql,docker,git,figma&perline=7" />
-</p>
+<div align="center">
+
+| | |
+|:--:|:--|
+| **Frontend** | <img src="https://skillicons.dev/icons?i=js,react,tailwind" height="40" /> |
+| **Backend** | <img src="https://skillicons.dev/icons?i=php,laravel,go,nodejs" height="40" /> |
+| **Database** | <img src="https://skillicons.dev/icons?i=postgres,mysql" height="40" /> |
+| **Tools** | <img src="https://skillicons.dev/icons?i=docker,git,figma" height="40" /> |
+
+</div>
 
 ### 📈 GitHub Stats
 
