@@ -7,6 +7,7 @@
 </a>
 
 <p>
+  <img src="https://img.shields.io/badge/Part%20of-Nexus%20Studio-161B22?style=for-the-badge&labelColor=A3E635&color=161B22" />
   <a href="mailto:ardianrafi2000@gmail.com"><img src="https://img.shields.io/badge/Email-Contact%20Me-161B22?style=for-the-badge&logo=gmail&logoColor=A3E635" /></a>
 </p>
 
@@ -16,12 +17,12 @@
 
 ### 👋 About Me
 
-I'm a web developer who enjoys turning ideas into clean, functional, and user-friendly applications. I like working across the stack, from crafting interfaces to building the logic behind them, and I'm always exploring new tools and technologies.
+I'm a web developer and part of **Nexus Studio**, where I enjoy turning ideas into clean, functional, and user-friendly applications. I like working across the stack, from crafting interfaces to building the logic behind them, and I'm always exploring new tools and technologies.
 
 ### 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=php,laravel,js,ts,react,tailwind,go,nodejs,postgres,mysql,docker,git,figma&perline=7" />
+  <img src="https://skillicons.dev/icons?i=php,laravel,js,react,tailwind,go,nodejs,postgres,mysql,docker,git,figma&perline=7" />
 </p>
 
 ### 📈 GitHub Stats
